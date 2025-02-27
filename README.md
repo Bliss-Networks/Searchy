@@ -1,5 +1,5 @@
 # Searchy
-Repo for the signature proxy for bliss networks - Searchy
+Repo for the signature proxy for bliss networks - Searchy *When it gets out of development*
 
 ## Features
 * Multi-Tabbed
